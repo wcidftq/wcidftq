@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1" version="24.7.7">
   <diagram name="第 1 页" id="UB9lJcS-LYD_0BkvbkBf">
-    <mxGraphModel>
+    <mxGraphModel dx="7180" dy="10720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-1" value="题目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="175" width="321" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-2" value="研究步骤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-4" value="研究方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-5" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-8" value="研究准备阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="403" width="135" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-11" value="数据整理阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="539" width="135" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-12" value="数据可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="671" width="135" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BHILhPmPWaK3Ac5AjfFu-15" value="结果分析与讨论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="803" width="135" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
